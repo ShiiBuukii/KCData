@@ -1,0 +1,76 @@
+// Quest
+{
+    "id": "B200",
+    "frequency":"One-Time",
+    "title": {
+        "original": "八戸の盾「稲木改二」、抜錨ッ！",
+        "en": "Shield Of Hachinohe \"Inagi Kai Ni\", Set Sail!"
+    },
+    "description": {
+        "original": "旗艦に八戸の盾、改鵜来型海防艦「稲木改二」を配備した精強な防衛艦隊で、製油所地帯沿岸、南西諸島防衛線、バシー海峡、東部オリョール海、昭南本土航路に展開！敵を撃滅、防衛せよ！",
+        "en": "Assemble a fleet containing Inagi Kai Ni as flagship and up to 5 XX, then S rank the boss nodes of 1-3, 1-4, 2-2, 2-3, and 7-4."
+    },
+    "prerequisite": [
+        "_quest.B330",
+        "_quest.A302"
+    ],
+    "notes":"",
+    "rewards": {
+        "resources": {
+            "fuel": 800,
+            "ammo": 0,
+            "steel": 800,
+            "bauxite": 800
+        },
+        "choose": [
+            [
+               {
+                "select_1": {
+                    "id": "_item.instant_repair_material",
+                    "count": 8,
+                    "additional_stats": null
+                }
+               },
+               {
+                "select_2": {
+                    "id": "_resource.ammo",
+                    "count": 8000,
+                    "additional_stats": null
+                }
+               },
+               {
+                "select_3": {
+                    "id": "_item.reinforcement_expansion",
+                    "count": 1,
+                    "additional_stats": null
+                }
+               }
+            ],
+            [
+               {
+                "select_1": {
+                    "id": "_equipment.12cm_single_high_angle_gun_mount_model_e_kai",
+                    "count": 1,
+                    "additional_stats": {
+                        "star": 8
+                    }
+                }
+               },
+               {
+                "select_2": {
+                    "id": "_item.improvement_material",
+                    "count": 8,
+                    "additional_stats": null
+                }
+               },
+               {
+                "select_3": {
+                    "id": "_item.action_report",
+                    "count": 1,
+                    "additional_stats": null
+                }
+               }
+            ]
+        ]
+    }
+}

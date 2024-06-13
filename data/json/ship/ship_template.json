@@ -1,0 +1,171 @@
+// Ship
+// equipment status
+// _locked, _unused
+
+// 
+//  _equipment. <- digunakan untuk mengambil file dari folder equipment
+//  _category. <- digunakan untuk mengambil file dari folder category
+
+{
+    "detail": {
+        "name": "",
+        "class": "",
+        "type": "",
+        "card_img": {
+            "normal": {
+                "default": "_ship_image_default.mogami",
+                "kai": "_ship_image_kai.mogami",
+                "kai_ni":"_ship_image_kai_ni.mogami",
+                "kai_ni_toku": "_ship_image_kai_ni_toku.mogami"
+            },
+            "damaged": {
+                "default": "_ship_image_default_damaged.mogami", 
+                "kai": "_ship_image_kai_damaged.mogami",
+                "kai_ni": "_ship_image_kai_ni_damaged.mogami",
+                "kai_ni_toku": "_ship_image_kai_ni_toku_damaged.mogami"
+            }
+        },
+        "modernization": {
+            "FIREPOWER": 0,
+            "TORPEDO": 0,
+            "ANTIAIR": 0,
+            "ARMOR": 0,
+            "LUCK": 0
+        },
+        "build_time": "0:17 (LSC)",
+        "consumption": {
+            "fuel": 10,
+            "ammo": 5
+        },
+        "remodel_requirements": {
+            "ammo": 0,
+            "fuel": 0,
+            "blueprint": 0,
+            "prototype_flight_deck_catapult": 0,
+            "action_report": 0,
+            "development_material": 0,
+            "new_model_aerial_armament_material": 0
+        },
+        "reversible_to": {
+            "name": "Akagi Kai Ni",
+            "reversion_level": 92,
+            "reversion_req": {
+                "ammo": 0,
+                "steel": 0,
+                "development_material": 0,
+                "construction_material": 0
+            }
+        },
+        "dismantle": {
+            "fuel": 0,
+            "ammo": 0,
+            "steel": 0,
+            "bauxite": 0
+        },
+        "remodel_level": 90,
+        "illustrator": "Shibafu",
+        "seiyuu": "Fujita Saki"
+    },
+    "stats": {
+        "HP": [],
+        "ARMOR": [],
+        "EVASION": [],
+        "PLANES": 0,
+        "SPEED": "",
+        "RANGE": "",
+        "FIREPOWER": [],
+        "TORPEDO": [],
+        "ANTIAIR": [],
+        "ANTISUBMARINEWARFARE": [],
+        "LINEOFSIGHT": [],
+        "LUCK": []   
+    },
+    "slots": [
+        {
+            "aircraft": [
+                0,
+                0,
+                "_locked",
+                "_locked"
+            ]
+        },
+        {
+            "equipment": [
+                "12.7cm_twin_gun_model_a",
+                "61cm_triple_torpedo_mount",
+                "_locked",
+                "_locked"
+            ]
+        }
+    ],
+    "special_mechanics": [],
+    "stats_exceptions": [],
+    "equipability_exceptions": {
+       "prefix1": {
+            "name":"CAV",
+            "can_equip": [
+                "_category.reconnaissance_seaplanes",
+                "_category.seaplane_bombers",
+                "_category.seaplane_fighters",
+                "_category.rotorcraft",
+                "_category.aviation_personel",
+                "_category.medium_caliber_main_guns",
+                "_category.secondary_guns",
+                "_category.anti_air_craft_guns",
+                "_category.anti_air_craft_fire_directors",
+                "_category.torpedoes",
+                "_category.large_sonars",
+                "_category.small_radars",
+                "_category.large_radars",
+                "_category.anti_air_craft_shells",
+                "_category.engine_improvements",
+                "_category.extra_armor_medium",
+                "_category.star_shell",
+                "_category.searchligths",
+                "_category.surface_ship_personnel",
+                "_category.drum_canister_transport_use",
+                "_category.anti_ground_artilleries",
+                "_category.command_facilities",
+                "_category.smoke_generators",
+                "_category.emergency_repair_personnel",
+                "_category.combat_rations"
+            ],
+            "cannot_equip": [
+
+            ],
+            "reinforcement_expansion": [
+                "_category.anti_air_craft_guns",
+                "_category.anti_air_craft_fire_directors",
+                "_category.anti_aircraft_shells",
+                "_category.extra_armor_medium",
+                "_category.emergency_repair_personnel",
+                "_category.combat_rations",
+                "_equipment.improved_kanhon_type_turbine"
+            ]
+       },
+       "prefix2":{
+            "name": "CA",
+            "can_equip": [
+                
+            ],
+            "cannot_equip": [
+                
+            ]
+       }
+    },
+    "fit_bonuses": [
+        {        
+            "equipment": "_equipment.12_7cm_twin_gun_model_a_kai_2",
+            "extra_equipment": [
+                {
+                   "extra_equipment_desc": "+ Surface Radar",
+                   "extra_equipment_stats": {
+
+                   },
+                   "extra_equipment_notes": "One-time",
+                   "_file": "surface_radar"
+                }
+            ]
+        }
+    ]
+}

@@ -2,5 +2,12 @@
     "title": "Kantai Collection Wiki Data",
     "version": "0.1",
     "url": "https://github.com/ShiiBuukii/KCData/master/index.json",
-    "authors": ["ShiiBuuki", "Uteru-teru"]
+    "authors": ["ShiiBuuki", "Uteru-teru"],
+    "prefixes": {
+        "_item": "data/json/item",
+        "_equipment": "data/json/equipment",
+        "_ship": "data/json/ship",
+        "_quest": "data/json/quest",
+        "_category": "data/json/category"
+    }
 }

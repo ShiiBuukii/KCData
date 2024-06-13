@@ -1,7 +1,9 @@
 // Quest
 {
     "id": "B200",
-    "frequency":"One-Time",
+    "frequency": {
+        "time": "One-Time"
+    },
     "title": {
         "original": "八戸の盾「稲木改二」、抜錨ッ！",
         "en": "Shield Of Hachinohe \"Inagi Kai Ni\", Set Sail!"

@@ -1,0 +1,260 @@
+{
+    "name": "Amatsukaze's voice lines",
+    "quotes": [
+        {
+            "introduction_1": {
+                "english": "Isn't this a nice wind? It's time for me, the prototype for the next generation destroyer, to debut. [1]",
+                "japan": "いい風きてる？次世代型駆逐艦のプロトタイプ、あたし、天津風の出番ね",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.introduction_1"
+            }
+        },
+        {
+            "introduction_2": {
+                "english": "Isn't this a nice wind? It's time for me, the prototype for the next generation destroyer, to debut. No need... for you to worry.",
+                "japan": "いい風きてる？次世代型駆逐艦のプロトタイプ、あたし、天津風の出番ね。あなた、心配しないで",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.introduction_2"
+            }
+        },
+        {
+            "library": {
+                "english": "I'm the 9th ship of Kagerou-class destroyers, Amatsukaze.\nI served as a test bed for the new high-temperature, high-pressure boilers meant for the next generation fleet destroyers. I worked hard to gather data to hand over to Shimakaze. I had to work hard to overcome many obstacles. It was troublesome you know!",
+                "japan": "陽炎型駆逐艦九番艦の天津風です。\n次世代の艦隊型駆逐艦のための新型高温高圧缶のテストベッドを務めたのよ。データはしっかりとって、島風に渡したわ。 幾多のピンチも頑張って乗り越えたのよ。大変だったんだから！",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.library"
+            }
+        },
+        {
+            "secretary_1": {
+                "english": "I wonder which war the wind is blowing. [2]",
+                "japan": "どういう風の吹き回しかしら。",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.secretary_1"
+            }
+        },
+        {
+            "secretary_1_1": {
+                "english": "A nice breeze may be coming. [3]",
+                "japan": "いい風が呼べそうね。",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.secretary_1_1"
+            }
+        },
+        {
+            "secretary_2": {
+                "english": "It's a nice breeze.",
+                "japan": "いい風ね。",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.secretary_2"
+            }
+        },
+        {
+            "secretary_2_1": {
+                "english": "How is it? ... oh, I see.",
+                "japan": "どうなの？ ……あ、そう。",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.secretary_2_1"
+            }
+        },
+        {
+            "secretary_3": {
+                "english": "Don't play with my hair. My windsock will come off.",
+                "japan": "やだ、髪は触んないでよ。吹き流しが取れちゃうでしょ",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.secretary_3"
+            }
+        },
+        {
+            "secretary_3_1": {
+                "english": "Sometimes... I think back to those days. I did everything I could, but it still ended in tragedy. Now though, everything is okay.",
+                "japan": "時々ね…思い出すの、あの頃のこと。いろいろ頑張ったけど、最後はちょっと悲しかったなって。でも今は、今は大丈夫。",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.secretary_3_1"
+            }
+        },
+        {
+            "secretary_idle": {
+                "english": "Eh? I'm not bored at all. I'm very busy collecting data on the new boilers and doing all sorts of things. Re-really!",
+                "japan": "えっ？あたし、退屈なんかしてないわ。新型缶のデータを取ったり、色々と大変なんだから。ほ、ほんとよ！",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.secretary_idle"
+            }
+        },
+        {
+            "secretary_married": {
+                "english": "You... need to rest sometimes because that's important... Mmmm, are you listening? Jeez...",
+                "japan": "あなた…時々は休むのよ、それも大切なんだから...んも聴いてる？も...",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.secretary_married"
+            }
+        },
+        {
+            "wedding": {
+                "english": "What do you have there? Eh? For me?Ummm... I gladly accept but... Are... you sure about giving it to me? You have my thanks.",
+                "japan": "あなた、なにそれ？え？私に？ えっと…貰ってあげてもいいけど… あなた…ホントに私でいいの？ ｱﾘｶﾞﾄｳお礼を言うわね。",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.wedding"
+            }
+        },
+        {
+            "player_s_score": {
+                "english": "What sort of method is that? ...Humph, not bad.[4]",
+                "japan": "どんな風なの？…ふぅ～ん。まぁまぁね。",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.player_s_score"
+            }
+        },
+        {
+            "joining_the_fleet": {
+                "english": "16th Destroyer Division, Amatsukaze. Setting sail!",
+                "japan": "第十六駆逐隊、天津風。抜錨よ！",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.joining_the_fleet"
+            }
+        },
+        {
+            "equipment_1": {
+                "english": "Oh... isn't this nice.",
+                "japan": "あら…いいじゃない",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.equipment_1"
+            }
+        },
+        {
+            "equipment_2": {
+                "english": "Isn't it obvious that my Rensouhou-kun is cuter? [5]",
+                "japan": "あたしの連装砲くんの方が、可愛いに決まってるでしょ？",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.equipment_2"
+            }
+        },
+        {
+            "equipment_3": {
+                "english": "That's a nice wind...",
+                "japan": "いい風…",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.equipment_3"
+            }
+        },
+        {
+            "supply": {
+                "english": "Thanks, I accept.",
+                "japan": "ありがとう、いただくわ",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.supply"
+            }
+        },
+        {
+            "docking_minor_damage_1": {
+                "english": "*Sigh*... I'm tired. Can I go back?",
+                "japan": "はぁ～疲れた。帰っていい？",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.docking_minor_damage_1"
+            }
+        },
+        {
+            "docking_minor_damage_1_1": {
+                "english": "That's strange. Did I catch a cold?",
+                "japan": "おかしいわ…風邪引いちゃったかな…？",
+                "audio": "$audio.voice_lines.destoyer.amatsukaze.docking_minor_damage_1_1"
+            }
+        },
+        {
+            "docking_major_damage_1": {
+                "english": "It's time for a bath! I don't like to be stinking of sweat!",
+                "japan": "お風呂よ、お風呂！汗臭いのはいや！",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.docking_major_damage_1"
+            }
+        },
+        {
+            "docking_major_damage_1_1": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.docking_major_damage_1_1"
+            }
+        },
+        {
+            "construction": {
+                "english": "Looks like a new girl has arrived. That's good.",
+                "japan": "新しい子が来たみたいね。いいけど。",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.construction"
+            }
+        },
+        {
+            "returning_from_sortie": {
+                "english": "The fleet has returned to port. Thanks for your hard work.",
+                "japan": "艦隊帰投ね、お疲れ様",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.returning_from_sortie"
+            }
+        },
+        {
+            "starting_a_sortie": {
+                "english": "Being part of DesRon2 isn't just for show. Follow me Yukikaze!",
+                "japan": "二水戦所属は伊達じゃないわ。雪風、ついてらっしゃいな！",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.starting_a_sortie"
+            }
+        },
+        {
+            "battle_start_1": {
+                "english": "What a nice wind... Open fire!",
+                "japan": "いい風ね…。撃ち方、始めて！",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.battle_start_1"
+            }
+        },
+        {
+            "battle_start_1_1": {
+                "english": "Let's begin. DesRon 2's name is not just for show!",
+                "japan": "行くわよ。二水戦の名は、伊達ではないわ。",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.battle_start_1_1"
+            }
+        },
+        {
+            "attack": {
+                "english": "I won't let you escape!",
+                "japan": "逃がさないわ！",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.attack"
+            }
+        },
+        {
+            "night_battle_attack": {
+                "english": "We'll be fine... A nice wind is blowing!",
+                "japan": "大丈夫…いい風が吹いているもの！",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.night_battle_attack"
+            }
+        },
+        {
+            "night_battle": {
+                "english": "I told you I won't let you escape right?",
+                "japan": "逃がさないって言ったでしょ？",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.night_battle"
+            }
+        },
+        {
+            "mvp": {
+                "english": "I'm... the distinguished ship? Well, isn't that nice! What do you think Tokitsukaze?",
+                "japan": "あたし…天津風が功労艦なの？あら、いいじゃない！時津風、どーお？",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.mvp"
+            }
+        },
+        {
+            "minor_damage_1": {
+                "english": "Hyah!",
+                "japan": "ひゃ!",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.minor_damage_1"
+            }
+        },
+        {
+            "minor_damage_2": {
+                "english": "N-Now you've done it...",
+                "japan": "や、やったわね…",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.minor_damage_2"
+            }
+        },
+        {
+            "major_damage": {
+                "english": "Aaah, the bow and No. 1 gun has been hit! But, I won't sink from just this![8]",
+                "japan": "ああっ、艦首と第一砲塔が！　でも、まだこんなんじゃ沈まないんだから！",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.major_damage"
+            }
+        },
+        {
+            "sunk": {
+                "english": "So I'll sink into the sea this time... It's so cold... and dark...",
+                "japan": "今度は海に沈むのね...冷たくて...暗いわ",
+                "audio": "$audio.voice_lines.destroyer.amatsukaze.sunk"
+            }
+        }
+    ],
+    "notes": [
+        "[1] Amatsukaze was a test bed for the boileres equipped on Shimakaze.",
+        "[2] As in a change in circumstances.",
+        "[3] Also referring to possible change.",
+        "[4] She's making a pun with 'wind' where if pronounced as 'ふう' can mean 'method' or 'style'.",
+        "[5] Comparing her Rensouhou with Shimakaze's ones.",
+        "[6] This line is shared with expedition selection, resource collection, instant repair and development.",
+        "[7] She was mounted with a replacement bow in her final months. See Trivia.",
+        "[8] She was hit by a torpedo at Guadalcanal that caused her front third to shear off, taking the bridge with it. However, the crew were able to perform emergency repairs that saved the rear of the ship from sinking."
+    ]
+}

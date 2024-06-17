@@ -1,1 +1,9 @@
 // Category
+// "mechanics" supported markdown language
+// 
+{
+    "name": "Anti-Aircraft Fire Directors",
+    "mechanics": {
+        "en": "{$icon.anti_aircraft_fire_directors} (AAFD) are quiable in {$item.RE}<br>- They provide a good Anti-Air"
+    }
+}

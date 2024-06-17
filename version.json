@@ -1,5 +1,14 @@
 {
-    "0.1": {
-        "new": "data/ship/destroyer/fubuki.json"
+    "type": "development",
+    "versions": {
+        "0.1": {
+            "new": [
+                "data/json/ship/destroyer/fubuki.json",
+                "data/json/ship/destroyer/amatsukaze.json"
+            ],
+            "del": [
+                
+            ]
+        }
     }
 }

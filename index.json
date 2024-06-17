@@ -1,13 +1,23 @@
 {
     "title": "Kantai Collection Wiki Data",
     "version": "0.1",
-    "url": "https://github.com/ShiiBuukii/KCData/master/index.json",
-    "authors": ["ShiiBuuki", "Uteru-teru"],
+    "index_url": "https://github.com/terukaze1939/KCData/master/index.json",
+    "version_url": "https://github.com/terukaze1939/KCData/master/version.json",
+    "author": "Terukaze1939",
     "prefixes": {
-        "_item": "data/json/item",
-        "_equipment": "data/json/equipment",
-        "_ship": "data/json/ship",
-        "_quest": "data/json/quest",
-        "_category": "data/json/category"
+        "$item": "data/json/item",
+        "$equiment": "data/json/equipment",
+        "$ship": "data/json/ship",
+        "$quest": "data/json/quest",
+        "$category": "data/json/category",
+        "$equipability_exceptions":"data/json/_detail/equipability_exceptions",
+        "$fit_bonuses": "data/json/_detail/fit_bonuses",
+        "$class": "data/json/_detail/class",
+        "$icon": "data/img/icon",
+        "$ship_image": "data/img/ship",
+        "$voice_lines": "data/json/_detail/voice_lines",
+        "$audio": "data/audio",
+        "$drop_location": "data/json/_detail/drop_location",
+        "$hourlies": "data/json/_detail/hourlies"
     }
 }

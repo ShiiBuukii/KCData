@@ -1,0 +1,173 @@
+{
+    "name": "Amatsukaze's hourlies",
+    "hourlies": [
+        {
+            "00:00": {
+                "english": "It's midnight. The date has changed.",
+                "japan": "深夜0時。日付が変わったわ",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.00_00"
+            }
+        },
+        {
+            "01:00": {
+                "english": "0100. *yawn*... I'm a bit sleepy. Are you going to sleep yet?",
+                "japan": "マルヒトマルマル。ふわぁ…あたし少し眠いわ。あなたはまだ休まないの？",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.01_00"
+            }
+        },
+        {
+            "02:00": {
+                "english": "0200. I wonder, has Hatsukaze already gone to bed? Yukikaze is already asleep huh, yeah.",
+                "japan": "マルフタマルマル。初風はもう寝たかしら？雪風は寝てるわね、うん",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.02_00"
+            }
+        },
+        {
+            "03:00": {
+                "english": "0300. You... can't be planning on staying up all night? I'm not going to stay up with you ok.",
+                "japan": "マルサンマルマル。あなた…今日まさか徹夜するつもり？付き合わないわよ",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.03_00"
+            }
+        },
+        {
+            "04:00": {
+                "english": "0400. Even though I said I wasn't staying up with you... You're so stubborn... It's already morning.",
+                "japan": "マルヨンマルマル。付き合わないって言ったのに…強情ね…もう朝だし",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.04_00"
+            }
+        },
+        {
+            "05:00": {
+                "english": "0500. Look. It's already morning. Morning! Aaah...jeez...!",
+                "japan": "マルゴーマルマル。見なさい。もう朝よ。もう！あぁ…もう…！",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.05_00"
+            }
+        },
+        {
+            "06:00": {
+                "english": "0600. But the morning breeze feels good... Hey, don't you think so too?",
+                "japan": "マルロクマルマル。でも、朝の風って気持ちいい…。ね、あなたもそう思う？",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.06_00"
+            }
+        },
+        {
+            "07:00": {
+                "english": "0700... The breeze sure feels good. Hey, do you want to go out to see for a little while?",
+                "japan": "マルナナマルマル。…風が気持ちいいわね。ねぇ、少し沖に出てみる？",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.07_00"
+            }
+        },
+        {
+            "08:00": {
+                "english": "0800... Yes, I have made breakfast. A Japanese breakfast is fine with you right?",
+                "japan": "マルハチマルマル。…はい、朝食は用意しておいたわ。和朝食でいいわよね？",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.08_00"
+            }
+        },
+        {
+            "09:00": {
+                "english": "0900. It's almost time to fully mobilize the fleet. What's your plan?",
+                "japan": "マルキューマルマル。そろそろ艦隊を本格的に動かす時間よね。どうするの？",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.09_00"
+            }
+        },
+        {
+            "10:00": {
+                "english": "1000. Shimakaze!? ...Yes, that's right. W-we're friends but... What? What's that look for?",
+                "japan": "ヒトマルマルマル。島風！？　…うん、そうね。と、友達だけど。…何？その顔？",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.10_00"
+            }
+        },
+        {
+            "11:00": {
+                "english": "1100. What? Renshouhou-kun? It looks cute sitting quietly on my bow right?",
+                "japan": "ヒトヒトマルマル。なに？連装砲くん？可愛いでしょ、艦首にちょこんと",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.11_00"
+            }
+        },
+        {
+            "12:00": {
+                "english": "1200. How does curry for lunch sound? It's my specialty you know? I'm serious you know?",
+                "japan": "ヒトフタマルマル。お昼はカレーでいいかしら？わりと得意なのよ？ほんとよ？",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.12_00"
+            }
+        },
+        {
+            "13:00": {
+                "english": "1300. How is my curry? Hmmm? That's good!",
+                "japan": "ヒトサンマルマル。あたしのカレーどうだった？うぅん？よろしい！",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.13_00"
+            }
+        },
+        {
+            "14:00": {
+                "english": "1400. Who's faster between Shimakaze and me? Now that you mention it, I don't know since I've never competed against her.",
+                "japan": "?ヒトヨンマルマル。島風とどっちが速いかって？そう言われても競争したことないからわからないわ",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.14_00"
+            }
+        },
+        {
+            "15:00": {
+                "english": "1500. I'm a prototype after all. So I was used in various trials. Speed isn't a problem.",
+                "japan": "ヒトゴーマルマル。あたしはプロトタイプなんだから。色々とあたしで試験したの。速さが問題じゃないのよ",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.15_00"
+            }
+        },
+        {
+            "16:00": {
+                "english": "1600. That's strange, why is Renshouhou-kun in... a bad mood?",
+                "japan": "ヒトロクマルマル。おかしいなぁ、連装砲くんの機嫌が悪い…なんで？",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.16_00"
+            }
+        },
+        {
+            "17:00": {
+                "english": "1700. The evening breeze feels good too right... Want to stay here and watch the sunset together?",
+                "japan": "ヒトナナマルマル。夕方の風もいいわね。…ここで、一緒に夕陽見る？",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.17_00"
+            }
+        },
+        {
+            "18:00": {
+                "english": "1800. It's almost time for dinner huh. Are you fine with grilled fish?",
+                "japan": "ヒトハチマルマル。そろそろ夕食の時間ね。魚焼く感じでいい？",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.18_00"
+            }
+        },
+        {
+            "19:00": {
+                "english": "1900... Yes, it's dinner... Well, is it delicious? ...I see, thank goodness!",
+                "japan": "ヒトキューマルマル。…はい、お夕食です。…どう、おいしい？…そう、よかった！",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.19_00"
+            }
+        },
+        {
+            "20:00": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.20_00"
+            }
+        },
+        {
+            "21:00": {
+                "english": "2100... I said I didn't want to have a contest with you! You're so annoying Shimakaze!",
+                "japan": "フタヒトマルマル。…だから競争なんかしないって！島風しつこーい！",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.21_00"
+            }
+        },
+        {
+            "22:00": {
+                "english": "2200. Sh-she finally left. Jeez... what's wrong with her!",
+                "japan": "フタフタマルマル。や、やっと帰ったわね。もう…なんなんだか！",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.22_00"
+            }
+        },
+        {
+            "23:00": {
+                "english": "2300. The day is almost over. Thanks for your work today, see you tomorrow.",
+                "japan": "フタサンマルマル。そろそろ今日も終わりね。一日ご苦労様、また明日ね",
+                "audio": "$audio.hourlies.destroyer.amatsukaze.23_00"
+            }
+        }
+    ]
+}

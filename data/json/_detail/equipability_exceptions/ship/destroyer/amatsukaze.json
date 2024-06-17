@@ -1,0 +1,56 @@
+{
+    "name": "Amatsukaze equipability exceptions",
+    "has_equipability_exceptions": true,
+    "equipability_exception": {
+        "default": {
+            "expansion_slots_exceptions": [
+                "$equipment.type_22_surface_radar",
+                "$equipment.type_22_surface_radar_kai",
+                "$equipment.type_22_surface_radar_kai_4_calibrated_late_model",
+                {
+                    "combined": [
+                        "$equipment.passive_radiolocator_e27",
+                        "$equipment.type_22_surface_radar_kai_4_calibrated_late_model"
+                    ]
+                }
+            ],
+            "ship_exceptions": null
+        },
+        "kai": {
+            "expansion_slots_exceptions": [
+                "$equipment.type_22_surface_radar",
+                "$equipment.type_22_surface_radar_kai",
+                "$equipment.type_22_surface_radar_kai_4_calibrated_late_model",
+                {
+                    "combined": [
+                        "$equipment.passive_radiolocator_e27",
+                        "$equipment.type_22_surface_radar_kai_4_calibrated_late_model"
+                    ]
+                },
+                "$equipment.enhanced_kanhon_type_boiler",
+                "$equipment.new_model_high_temperature_high_pressure_boiler"
+            ],
+            "ship_exceptions": null
+        },
+        "kai_ni": {
+            "expansion_slots_exceptions": [
+                "$equipment.type_22_surface_radar",
+                "$equipment.type_22_surface_radar_kai",
+                "$equipment.type_22_surface_radar_kai_4_calibrated_late_model",
+                {
+                    "combined": [
+                        "$equipment.passive_radiolocator_e27",
+                        "$equipment.type_22_surface_radar_kai_4_calibrated_late_model"
+                    ]
+                },
+                "$equipment.enhanced_kanhon_type_boiler",
+                "$equipment.new_model_high_temperature_high_pressure_boiler",
+                "$category.extra_armor_medium"
+            ],
+            "ship_exceptions": [
+                "$category.extra_armor_medium",
+                "$category.landing_craft"
+            ]
+        }
+    }
+}

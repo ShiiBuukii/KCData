@@ -9,14 +9,14 @@
         },
         "card_img": {
             "normal": {
-                "default": "$ship_image.normal.amatsukaze",
-                "kai": "$ship_image.normal.amatsukaze_kai",
-                "kai_ni": "$ship_image.normal.amatsukaze_kai_ni"
+                "default": "$ship_image.destroyer.amatsukaze.regular.base",
+                "kai": "$ship_image.destroyer.amatsukaze.regular.kai",
+                "kai_ni": "$ship_image.destroyer.amatsukaze.regular.kai_ni"
             },
             "damaged": {
-                "default": "$ship_image.damaged.amatsukaze",
-                "kai": "$ship_image.damaged.amatsukaze_kai",
-                "kai_ni": "$ship_image.damaged.amatsukaze_kai_ni"
+                "default": "$ship_image.destroyer.amatsukaze.regular.base_damaged",
+                "kai": "$ship_image.destroyer.amatsukaze.regular.kai_damaged",
+                "kai_ni": "$ship_image.destroyer.amatsukaze.regular.kai_ni_damaged"
             }
         },
         "modernization": {
@@ -59,7 +59,9 @@
                 "ammo": 460,
                 "steel": 770,
                 "blueprint": 1,
-                "action_report": 1
+                "action_report": 1,
+                "development_material": 65,
+                "construction_material": 30
             }
         },
         "is_reversible": false,
@@ -97,46 +99,46 @@
     },
     "stats": {
         "default": {
-            "HP": [],
-            "ARMOR": [],
-            "EVASION": [],
+            "HP": [18, 22],
+            "ARMOR": [7, 25],
+            "EVASION": [48, 89],
             "PLANES": 0,
-            "SPEED": "",
-            "RANGE": "",
-            "FIREPOWER": [],
-            "TORPEDO": [],
-            "ANTIAIR": [],
-            "ANTISUBMARINEWARFARE": [],
-            "LINEOFSIGHT": [],
-            "LUCK": []
+            "SPEED": "Fast",
+            "RANGE": "Short",
+            "FIREPOWER": [10, 29],
+            "TORPEDO": [28, 79],
+            "ANTIAIR": [22, 53],
+            "ANTISUBMARINEWARFARE": [26, 54],
+            "LINEOFSIGHT": [8, 19],
+            "LUCK": [18, 59]
         },
         "kai": {
-            "HP": [],
-            "ARMOR": [],
-            "EVASION": [],
+            "HP": [34, 39],
+            "ARMOR": [14, 61],
+            "EVASION": [50, 94],
             "PLANES": 0,
-            "SPEED": "",
-            "RANGE": "",
-            "FIREPOWER": [],
-            "TORPEDO": [],
-            "ANTIAIR": [],
-            "ANTISUBMARINEWARFARE": [],
-            "LINEOFSIGHT": [],
-            "LUCK": []
+            "SPEED": "Fast",
+            "RANGE": "Short",
+            "FIREPOWER": [12, 49],
+            "TORPEDO": [32, 84],
+            "ANTIAIR": [23, 63],
+            "ANTISUBMARINEWARFARE": [28, 59],
+            "LINEOFSIGHT": [9, 39],
+            "LUCK": [17, 69]
         },
         "kai_ni": {
-            "HP": [],
-            "ARMOR": [],
-            "EVASION": [],
+            "HP": [35, 40],
+            "ARMOR": [15, 63],
+            "EVASION": [56, 99],
             "PLANES": 0,
-            "SPEED": "",
-            "RANGE": "",
-            "FIREPOWER": [],
-            "TORPEDO": [],
-            "ANTIAIR": [],
-            "ANTISUBMARINEWARFARE": [],
-            "LINEOFSIGHT": [],
-            "LUCK": []
+            "SPEED": "Fast",
+            "RANGE": "Short",
+            "FIREPOWER": [16, 65],
+            "TORPEDO": [30, 89],
+            "ANTIAIR": [26, 72],
+            "ANTISUBMARINEWARFARE": [29, 67],
+            "LINEOFSIGHT": [10, 44],
+            "LUCK": [19, 91]
         }
     },
     "slots": {
@@ -227,5 +229,8 @@
     },
     "drop_location": "$drop_location.destroyer.amatsukaze",
     "voice_lines": "$voice_lines.destroyer.amatsukaze",
-    "hourlies": "$hourlies.destroyer.amatsukaze"
+    "hourlies": "$hourlies.destroyer.amatsukaze",
+    "seasonal": "$seasonal.destroyer.amatsukaze",
+    "cg": "$cgs.destroyer.amatsukaze",
+    "trivia": "$trivia.destroyer.amatsukaze"
 }

@@ -1,0 +1,25 @@
+{
+    "name": "Amatsukaze's CGs",
+    "regular": {
+        "default": {
+            "base": "$ship_image.destroyer.amatsukaze.regular.base",
+            "kai": "$ship_image.destroyer.amatsukaze.regular.kai",
+            "kai_ni": "$ship_image.destroyer.amatsukaze.regular.kai_ni"
+        },
+        "damaged": {
+            "base": "$ship_image.destroyer.amatsukaze.regular.base_damaged",
+            "kai": "$ship_image.destroyer.amatsukaze.regular.kai_damaged",
+            "kai_ni": "$ship_image.destroyer.amatsukaze.regular.kai_ni_damaged"
+        }
+    },
+    "seasonal": {
+        "hinamatsuri_2021": {
+            "default": {
+                "base": "$ship_image.destroyer.amatsukaze.seasonal.hinamatsuri_2021"
+            },
+            "damaged": {
+                "base": "$ship_image.destroyer.amatsukaze.seasonal.hinamatsuri_2021_damaged"
+            }
+        }
+    }
+}

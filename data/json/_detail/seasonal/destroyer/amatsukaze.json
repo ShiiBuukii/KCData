@@ -1,0 +1,117 @@
+{
+    "name": "Amatsukaze's seasonal voices",
+    "season": [
+        {
+            "early_summer_2016": {
+                "english": "",
+                "japan":"",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.early_summer_2016"
+            }
+        },
+        {
+            "mid_summer": {
+                "english":"",
+                "japan":"",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.mid_summer"
+            }
+        },
+        {
+            "autumn_2016": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.autumn_2016"
+            }
+        },
+        {
+            "saury_festival_2016": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.saury_festival_2016"
+            }
+        },
+        {
+            "autumn_2016_1": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.autumn_2016_1"
+            }
+        },
+        {
+            "christmas_2016": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.christmas_2016"
+            }
+        },
+        {
+            "new_year_2017": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.new_year_2017"
+            }
+        },
+        {
+            "setsubun_2017": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.setsubun_2017"
+            }
+        },
+        {
+            "valentine_day": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.valentine_day"
+            }
+        },
+        {
+            "hinamatsuri_2017": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.hinamatsuri_2017"
+            }
+        },
+        {
+            "white_day_2017": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.white_day_2017"
+            }
+        },
+        {
+            "spring_2017": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.spring_2017"
+            }
+        },
+        {
+            "4th_anniversary": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.4th_anniversary"
+            }
+        },
+        {
+            "late_autumn_2017": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.late_autumn_2017"
+            }
+        },
+        {
+            "5th_anniversary": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.5th_anniversary"
+            }
+        },
+        {
+            "6th_anniversary": {
+                "english": "",
+                "japan": "",
+                "audio": "$audio.seasonal.destroyer.amatsukaze.6th_anniversary"
+            }
+        }
+    ]
+}

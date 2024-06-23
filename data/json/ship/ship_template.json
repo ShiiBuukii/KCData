@@ -9,14 +9,14 @@
         },
         "card_img": {
             "normal": {
-                "default": "$ship_image.normal.amatsukaze",
-                "kai": "$ship_image.normal.amatsukaze_kai",
-                "kai_ni": "$ship_image.normal.amatsukaze_kai_ni"
+                "default": "$ship_image.destroyer.amatsukaze.regular.base",
+                "kai": "$ship_image.destroyer.amatsukaze.regular.kai",
+                "kai_ni": "$ship_image.destroyer.amatsukaze.regular.kai_ni"
             },
             "damaged": {
-                "default": "$ship_image.damaged.amatsukaze",
-                "kai": "$ship_image.damaged.amatsukaze_kai",
-                "kai_ni": "$ship_image.damaged.amatsukaze_kai_ni"
+                "default": "$ship_image.destroyer.amatsukaze.regular.base_damaged",
+                "kai": "$ship_image.destroyer.amatsukaze.regular.kai_damaged",
+                "kai_ni": "$ship_image.destroyer.amatsukaze.regular.kai_ni_damaged"
             }
         },
         "modernization": {
@@ -227,5 +227,8 @@
     },
     "drop_location": "$drop_location.destroyer.amatsukaze",
     "voice_lines": "$voice_lines.destroyer.amatsukaze",
-    "hourlies": "$hourlies.destroyer.amatsukaze"
+    "hourlies": "$hourlies.destroyer.amatsukaze",
+    "seasonal": "$seasonal.destroyer.amatsukaze",
+    "cg": "$cgs.destroyer.amatsukaze",
+    "trivia": "$trivia.destroyer.amatsukaze"
 }

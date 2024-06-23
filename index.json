@@ -18,6 +18,7 @@
         "$voice_lines": "data/json/_detail/voice_lines",
         "$audio": "data/audio",
         "$drop_location": "data/json/_detail/drop_location",
-        "$hourlies": "data/json/_detail/hourlies"
+        "$hourlies": "data/json/_detail/hourlies",
+        "$seasonal": "data/json/_detail/seasonal"
     }
 }

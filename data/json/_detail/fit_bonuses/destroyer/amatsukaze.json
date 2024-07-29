@@ -1,3 +1,13 @@
 {
-    
+    "name": "Amatsukaze's fit bonuses",
+    "bonuses": {
+        "base": {
+            "equipment": {
+                "extra_equipment": [
+                    
+                ]
+            }
+        },
+        "kai_ni": {}
+    }
 }

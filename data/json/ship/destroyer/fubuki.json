@@ -1,7 +1,234 @@
+
 {
-    
-    "name":"Fubuki",
-    "class":"Fubuki-class",
-    "type":"destroyer"
-    
+    "detail": {
+        "name": "Fubuki",
+        "class": "$class.fubuki",
+        "type": {
+            "name": "Destroyer",
+            "prefix": "DD"
+        },
+        "card_img": {
+            "normal": {
+                "default": "$ship_image.destroyer.fubuki.regular.base",
+                "kai": "$ship_image.destroyer.fubuki.regular.kai",
+                "kai_ni": "$ship_image.destroyer.fubuki.regular.kai_ni"
+            },
+            "damaged": {
+                "default": "$ship_image.destroyer.fubuki.regular.base_damaged",
+                "kai": "$ship_image.destroyer.fubuki.regular.kai_damaged",
+                "kai_ni": "$ship_image.destroyer.fubuki.regular.kai_ni_damaged"
+            }
+        },
+        "modernization": {
+            "default": {
+                "FIREPOWER": 1,
+                "TORPEDO": 1,
+                "ANTIAIR": 1,
+                "ARMOR": 1
+            },
+            "kai": {
+                "FIREPOWER": 1,
+                "TORPEDO": 1,
+                "ANTIAIR": 1,
+                "ARMOR": 1
+            },
+            "kai_ni": {
+                "FIREPOWER": 2,
+                "TORPEDO": 2,
+                "ANTIAIR": 2,
+                "ARMOR": 2
+            }
+        },
+        "is_buildable": false,
+        "build": {
+            "format": "hh:mm",
+            "time": "0:30",
+            "type": "unbuildable"
+        },
+        "consumption": {
+            "fuel": 20,
+            "ammo": 20
+        },
+        "remodel_requirements": {
+            "default": null,
+            "kai": {
+                "ammo": 100,
+                "steel": 120
+            },
+            "kai_ni": {
+                "ammo": 460,
+                "steel": 770,
+                "blueprint": 1,
+                "action_report": 1
+            }
+        },
+        "is_reversible": false,
+        "reversible_to": null,
+        "dismantle": {
+            "default": {
+                "fuel": 1,
+                "ammo": 1,
+                "steel": 6,
+                "bauxite": 0
+            },
+            "kai": {
+                "fuel": 1,
+                "ammo": 2,
+                "steel": 10,
+                "bauxite": 0
+            },
+            "kai_ni": {
+                "fuel": 3,
+                "ammo": 3,
+                "steel": 11,
+                "bauxite": 2
+            }
+        },
+        "remodel": {
+            "kai": {
+                "level": 20
+            },
+            "kai_ni": {
+                "level": 73
+            }
+        },
+        "illustrator": "Shizuma Yoshinori",
+        "seiyuu": "Ogura Yui"
+    },
+    "stats": {
+        "default": {
+            "HP": [],
+            "ARMOR": [],
+            "EVASION": [],
+            "PLANES": 0,
+            "SPEED": "",
+            "RANGE": "",
+            "FIREPOWER": [],
+            "TORPEDO": [],
+            "ANTIAIR": [],
+            "ANTISUBMARINEWARFARE": [],
+            "LINEOFSIGHT": [],
+            "LUCK": []
+        },
+        "kai": {
+            "HP": [],
+            "ARMOR": [],
+            "EVASION": [],
+            "PLANES": 0,
+            "SPEED": "",
+            "RANGE": "",
+            "FIREPOWER": [],
+            "TORPEDO": [],
+            "ANTIAIR": [],
+            "ANTISUBMARINEWARFARE": [],
+            "LINEOFSIGHT": [],
+            "LUCK": []
+        },
+        "kai_ni": {
+            "HP": [],
+            "ARMOR": [],
+            "EVASION": [],
+            "PLANES": 0,
+            "SPEED": "",
+            "RANGE": "",
+            "FIREPOWER": [],
+            "TORPEDO": [],
+            "ANTIAIR": [],
+            "ANTISUBMARINEWARFARE": [],
+            "LINEOFSIGHT": [],
+            "LUCK": []
+        }
+    },
+    "slots": {
+        "default": {
+            "aircraft": [
+                0,
+                0,
+                0,
+                "_locked"
+            ],
+            "equipment": [
+                "$equipment.12_7cm_twin_gun_mount",
+                "$equipment.61cm_quadruple_torpedo_mount",
+                "$equipment.enhanced_kanhon_type_boiler",
+                "_locked"
+            ]
+        },
+        "kai": {
+            "aircraft": [
+                0,
+                0,
+                0,
+                "_locked"
+            ],
+            "equipment": [
+                "$equipment.61cm_quadruple_oxygen_torpedo_mount",
+                "$equipment.type_3_active_sonar",
+                "$equipment.new_model_high_temperature_high_pressure_boiler",
+                "_locked"
+            ]
+        },
+        "kai_ni": {
+            "aircraft": [
+                0,
+                0,
+                0,
+                "_locked"
+            ],
+            "equipment": [
+                "$equipment.12_7cm_twin_gun_mount_model_c_kai_2",
+                "$equipment.new_model_high_temperature_high_pressure_boiler",
+                "$equipment.new_model_high_temperature_high_pressure_boiler",
+                "_locked"
+            ]
+        }
+    },
+    "special_mechanics": null,
+    "stats_exceptions": {
+        "default": [
+            "Has 3 equipment slots",
+            "Is from Speed Group Fast B1"
+        ],
+        "kai": [
+            "Is from Speed Group Fast B1"
+        ],
+        "kai_ni": [
+            "Is from Speed Group Fast A"
+        ]
+    },
+    "equipability_exceptions": [
+        "$equipability_exceptions.destroyer",
+        "$equipability_exceptions.amatsukaze"
+    ],
+    "fit_bonuses": "$fit_bonuses.amatsukaze",
+    "important_information": {
+        "required_for_quest": {
+            "mandatory": [
+               "$quest.B193"
+            ],
+            "optional": [
+                "$quest.A88",
+                "$quest.B117",
+                "$quest.C15",
+                "$quest.C21",
+                "$quest.C78"
+            ]
+        },
+        "helper": {
+            "improvement": [
+                "$equipment.new_model_high_temperature_high_pressure_boiler",
+                "$equipment.12_7cm_twin_gun_mount_model_c_kai_3"
+            ],
+            "improvement_upgrade": [
+                "$equipment.enhanced_kanhon_type_boiler",
+                "$equipment.12_7cm_twin_gun_mount_model_c_kai_2"
+            ]
+        }
+    },
+    "drop_location": "$drop_location.destroyer.amatsukaze",
+    "voice_lines": "$voice_lines.destroyer.amatsukaze",
+    "hourlies": "$hourlies.destroyer.amatsukaze",
+    "seasonal": "$seasonal.destroyer.amatsukaze",
+    "cg": "$cgs.destroyer.amatsukaze",
+    "trivia": "$trivia.destroyer.amatsukaze"
 }
